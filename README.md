@@ -1,6 +1,4 @@
 
-
-````markdown
 # Apache Beam Demonstration
 
 This repository contains a Jupyter Notebook that demonstrates the core concepts and usage of **Apache Beam**, a unified programming model for batch and stream data processing.
