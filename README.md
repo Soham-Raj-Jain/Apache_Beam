@@ -1,6 +1,4 @@
-Here’s a ready-to-paste **README.md** for your `apache_beam_demonstration.ipynb` — no need to read it before using:
 
----
 
 ````markdown
 # Apache Beam Demonstration
